@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-An end-to-end E-commerce Analytics project built to analyze sales, product performance, customer behavior, returns, and delivery metrics.
+An end-to-end E-commerce Analytics project built to analyze business performance, product categories, customer behavior, returns, delivery performance, and operational efficiency using Power BI, Python, SQL, and MySQL.
 
 ## Tools & Technologies
 
@@ -15,30 +15,45 @@ An end-to-end E-commerce Analytics project built to analyze sales, product perfo
 
 ## Dashboard Pages
 
-1. Sales Overview
-2. Product Analysis
-3. Key Business Insights
-4. Returns & Delivery Analysis
+### 1. Executive Overview
 
-## Key Features
+Provides a high-level view of business performance through key KPIs, revenue, profit, orders, customer metrics, and overall sales trends.
 
-* Revenue, profit, and order KPIs
-* Year-over-year performance comparisons
-* Product and category analysis
-* Return reason and return rate analysis
-* Delivery performance metrics
-* Customer insights
+![Executive Overview](Screenshot%202026-10-15%20132702.png)
+
+### 2. Product Performance, Category Analysis and Insights
+
+Analyzes product performance, category-wise sales, profitability, and key business insights to support product-related decisions.
+
+![Product Performance, Category Analysis and Insights](Screenshot%202026-10-15%20132737.png)
+
+### 3. Customer Behavior, Segmentation and Value Analysis
+
+Focuses on customer behavior, segmentation, customer value, purchasing patterns, and customer-related business insights.
+
+![Customer Behavior, Segmentation and Value Analysis](Screenshot%202026-10-15%20132815.png)
+
+### 4. Returns Analysis, Delivery Performance and Operational Efficiency
+
+Examines return trends, return reasons, delivery performance, on-time delivery, and operational efficiency metrics.
+
+![Returns Analysis, Delivery Performance and Operational Efficiency](Screenshot%202026-10-15%20132853.png)
 
 ## Data Pipeline
 
 CSV Files → Python ETL → MySQL Database → Power BI Dashboard
 
-## Project Files
+## Key Features
 
-* Power BI report (`.pbix`)
-* Dashboard PDF preview
-* Dashboard screenshots
+* Business performance KPIs
+* Year-over-year (YoY) comparisons
+* Product and category performance analysis
+* Customer behavior and segmentation analysis
+* Return trends and return reason analysis
+* Delivery performance and operational metrics
+* Interactive Power BI visualizations
 
-## Purpose
+## Project Purpose
 
-This project demonstrates practical skills in data cleaning, SQL, ETL, data modeling, DAX, and business intelligence reporting.
+This project demonstrates practical skills in data cleaning, ETL pipeline development, SQL, data modeling, DAX calculations, and business intelligence reporting.
+
