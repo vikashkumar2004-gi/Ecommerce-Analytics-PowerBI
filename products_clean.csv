@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,unit_price,cost_price
+P0001,Lite Decor 001,Home & Living,Decor,33502.96,23253.97
+P0002,Pro Wellness 002,Beauty & Health,Wellness,37356.2,23648.51
+P0003,Classic Haircare 003,Beauty & Health,Haircare,31714.97,25515.32
+P0004,Lite Makeup 004,Beauty & Health,Makeup,2037.04,1363.2
+P0005,Advanced Furniture 005,Home & Living,Furniture,5534.48,3353.85
+P0006,Ultra Outdoor 006,Sports,Outdoor,19593.82,13069.01
+P0007,Essential Smart Watches 007,Electronics,Smart Watches,3156.63,2378.01
+P0008,Essential Laptops 008,Electronics,Laptops,27552.33,17954.52
+P0009,Pro Smart Watches 009,Electronics,Smart Watches,18313.9,12363.24
+P0010,Ultra Smart Watches 010,Electronics,Smart Watches,19816.24,12022.55
+P0011,Smart Accessories 011,Fashion,Accessories,4348.18,3371.04
+P0012,Essential Smart Watches 012,Electronics,Smart Watches,25935.59,21754.94
+P0013,Premium Personal Care 013,Beauty & Health,Personal Care,28628.95,23633.15
+P0014,Essential Footwear 014,Fashion,Footwear,9496.14,7832.96
+P0015,Ultra Makeup 015,Beauty & Health,Makeup,40232.39,26770.66
+P0016,Ultra Cameras 016,Electronics,Cameras,29575.81,24728.46
+P0017,Ultra Headphones 017,Electronics,Headphones,31996.14,23802.52
+P0018,Smart Skincare 018,Beauty & Health,Skincare,21058.35,13486.96
+P0019,Pro Smart Watches 019,Electronics,Smart Watches,25443.21,18983.26
+P0020,Lite Sportswear 020,Sports,Sportswear,30620.28,19376.0
+P0021,Essential Outdoor 021,Sports,Outdoor,27784.12,23267.43
+P0022,Classic Makeup 022,Beauty & Health,Makeup,3542.36,2402.89
+P0023,Premium Smart Watches 023,Electronics,Smart Watches,22162.13,18403.97
+P0024,Lite Fitness 024,Sports,Fitness,29074.17,22224.31
+P0025,Premium Storage 025,Home & Living,Storage,24290.57,18755.57
+P0026,Smart Accessories 026,Fashion,Accessories,37417.6,29600.58
+P0027,Classic Women Clothing 027,Fashion,Women Clothing,27001.71,16385.15
+P0028,Smart Headphones 028,Electronics,Headphones,3684.96,2499.73
+P0029,Advanced Decor 029,Home & Living,Decor,30306.15,25128.05
+P0030,Advanced Fitness 030,Sports,Fitness,26178.38,19523.24
+P0031,Ultra Personal Care 031,Beauty & Health,Personal Care,12481.94,10785.48
+P0032,Everyday Bedding 032,Home & Living,Bedding,8062.66,4890.97
+P0033,Classic Mobiles 033,Electronics,Mobiles,17312.92,11348.04
+P0034,Essential Laptops 034,Electronics,Laptops,15770.31,12609.99
+P0035,Plus Cameras 035,Electronics,Cameras,16600.46,13545.69
+P0036,Everyday Footwear 036,Fashion,Footwear,45399.67,29436.01
+P0037,Plus Headphones 037,Electronics,Headphones,1347.04,941.22
+P0038,Lite Men Clothing 038,Fashion,Men Clothing,24181.94,14950.68
+P0039,Pro Bedding 039,Home & Living,Bedding,8908.12,7122.3
+P0040,Advanced Personal Care 040,Beauty & Health,Personal Care,14114.19,9925.33
+P0041,Plus Men Clothing 041,Fashion,Men Clothing,32024.91,26123.89
+P0042,Ultra Bags 042,Fashion,Bags,11379.61,9525.59
+P0043,Ultra Women Clothing 043,Fashion,Women Clothing,48440.96,29524.95
+P0044,Essential Decor 044,Home & Living,Decor,24552.11,17270.23
+P0045,Classic Laptops 045,Electronics,Laptops,23228.17,13727.57
+P0046,Lite Bedding 046,Home & Living,Bedding,9483.14,7982.88
+P0047,Pro Fitness 047,Sports,Fitness,19262.21,16198.59
+P0048,Premium Outdoor 048,Sports,Outdoor,33764.56,27208.55
+P0049,Advanced Headphones 049,Electronics,Headphones,15194.17,11771.04
+P0050,Classic Storage 050,Home & Living,Storage,10352.75,8810.46
+P0051,Smart Decor 051,Home & Living,Decor,39330.52,25162.5
+P0052,Everyday Men Clothing 052,Fashion,Men Clothing,26460.87,17448.09
+P0053,Ultra Men Clothing 053,Fashion,Men Clothing,7511.52,5330.87
+P0054,Lite Laptops 054,Electronics,Laptops,18205.59,12221.86
+P0055,Premium Bags 055,Fashion,Bags,2801.65,2162.59
+P0056,Ultra Kitchen 056,Home & Living,Kitchen,8344.97,5881.97
+P0057,Everyday Accessories 057,Fashion,Accessories,16823.68,10240.18
+P0058,Plus Men Clothing 058,Fashion,Men Clothing,33465.11,21188.79
+P0059,Smart Men Clothing 059,Fashion,Men Clothing,3759.48,2827.14
+P0060,Ultra Makeup 060,Beauty & Health,Makeup,10193.98,8845.74
+P0061,Everyday Kitchen 061,Home & Living,Kitchen,35501.05,23242.93
+P0062,Essential Headphones 062,Electronics,Headphones,21618.81,14745.52
+P0063,Essential Bags 063,Fashion,Bags,7731.28,6123.8
+P0064,Essential Mobiles 064,Electronics,Mobiles,28464.24,21924.69
+P0065,Premium Mobiles 065,Electronics,Mobiles,29809.3,20609.59
+P0066,Essential Bedding 066,Home & Living,Bedding,35007.05,25389.85
+P0067,Plus Skincare 067,Beauty & Health,Skincare,30984.03,21322.3
+P0068,Pro Cricket 068,Sports,Cricket,30744.27,20787.87
+P0069,Premium Fitness 069,Sports,Fitness,23082.75,18063.83
+P0070,Essential Sportswear 070,Sports,Sportswear,28222.5,19956.63
+P0071,Everyday Storage 071,Home & Living,Storage,14138.47,8832.78
+P0072,Classic Decor 072,Home & Living,Decor,23241.27,20031.21
+P0073,Plus Makeup 073,Beauty & Health,Makeup,23664.95,19139.13
+P0074,Essential Furniture 074,Home & Living,Furniture,31410.72,22325.24
+P0075,Everyday Furniture 075,Home & Living,Furniture,8397.3,7222.47
+P0076,Advanced Accessories 076,Fashion,Accessories,15417.16,9870.45
+P0077,Pro Kitchen 077,Home & Living,Kitchen,439.82,317.09
+P0078,Smart Men Clothing 078,Fashion,Men Clothing,41244.84,24616.21
+P0079,Classic Smart Watches 079,Electronics,Smart Watches,31928.98,19085.16
+P0080,Lite Cricket 080,Sports,Cricket,22629.25,13372.31
+P0081,Premium Accessories 081,Fashion,Accessories,30896.91,21221.84
+P0082,Ultra Skincare 082,Beauty & Health,Skincare,33040.89,24673.21
+P0083,Essential Accessories 083,Fashion,Accessories,18832.71,15082.25
+P0084,Advanced Women Clothing 084,Fashion,Women Clothing,43502.01,27740.49
+P0085,Advanced Decor 085,Home & Living,Decor,9188.26,6255.75
+P0086,Lite Kitchen 086,Home & Living,Kitchen,1270.49,754.54
+P0087,Premium Skincare 087,Beauty & Health,Skincare,18667.96,15708.73
+P0088,Plus Kitchen 088,Home & Living,Kitchen,34133.82,23241.06
+P0089,Pro Haircare 089,Beauty & Health,Haircare,41880.81,25749.54
+P0090,Classic Bedding 090,Home & Living,Bedding,47585.47,29745.5
+P0091,Premium Personal Care 091,Beauty & Health,Personal Care,31536.59,24836.49
+P0092,Essential Furniture 092,Home & Living,Furniture,16031.52,12485.68
+P0093,Classic Bedding 093,Home & Living,Bedding,22482.07,18575.02
+P0094,Everyday Men Clothing 094,Fashion,Men Clothing,42274.6,29718.49
+P0095,Lite Women Clothing 095,Fashion,Women Clothing,42235.23,27783.93
+P0096,Classic Bedding 096,Home & Living,Bedding,30289.02,18828.43
+P0097,Smart Cricket 097,Sports,Cricket,13810.65,8439.48
+P0098,Essential Outdoor 098,Sports,Outdoor,5201.19,3380.82
+P0099,Pro Accessories 099,Fashion,Accessories,10261.78,7745.39
+P0100,Smart Decor 100,Home & Living,Decor,18149.31,15426.37
+P0101,Lite Women Clothing 101,Fashion,Women Clothing,26424.12,22247.56
+P0102,Smart Bedding 102,Home & Living,Bedding,18867.09,14382.68
+P0103,Premium Outdoor 103,Sports,Outdoor,40643.0,26464.45
+P0104,Advanced Footwear 104,Fashion,Footwear,18972.57,12367.2
+P0105,Classic Skincare 105,Beauty & Health,Skincare,3980.79,2446.0
+P0106,Lite Laptops 106,Electronics,Laptops,13308.77,9656.68
+P0107,Plus Men Clothing 107,Fashion,Men Clothing,37123.0,28894.04
+P0108,Classic Bedding 108,Home & Living,Bedding,5482.18,4188.63
+P0109,Ultra Decor 109,Home & Living,Decor,13768.54,8132.52
+P0110,Advanced Bags 110,Fashion,Bags,2054.16,1340.51
+P0111,Everyday Accessories 111,Fashion,Accessories,38944.45,25147.12
+P0112,Essential Men Clothing 112,Fashion,Men Clothing,14924.9,12595.73
+P0113,Lite Kitchen 113,Home & Living,Kitchen,4255.21,2784.47
+P0114,Everyday Wellness 114,Beauty & Health,Wellness,18843.92,14716.45
+P0115,Pro Smart Watches 115,Electronics,Smart Watches,25596.44,19346.25
+P0116,Everyday Men Clothing 116,Fashion,Men Clothing,10182.18,6536.39
+P0117,Everyday Storage 117,Home & Living,Storage,19584.19,14499.9
+P0118,Essential Furniture 118,Home & Living,Furniture,33088.3,21268.51
+P0119,Essential Laptops 119,Electronics,Laptops,13116.51,10261.74
+P0120,Advanced Cameras 120,Electronics,Cameras,30333.55,18808.96
+P0121,Advanced Decor 121,Home & Living,Decor,25333.02,16830.17
+P0122,Ultra Laptops 122,Electronics,Laptops,23163.33,18052.04
+P0123,Pro Mobiles 123,Electronics,Mobiles,3090.35,2087.43
+P0124,Lite Kitchen 124,Home & Living,Kitchen,24312.13,15671.58
+P0125,Ultra Decor 125,Home & Living,Decor,13254.37,9615.47
+P0126,Ultra Laptops 126,Electronics,Laptops,13476.52,9282.4
+P0127,Ultra Fitness 127,Sports,Fitness,11822.27,8249.69
+P0128,Advanced Furniture 128,Home & Living,Furniture,31595.3,23874.71
+P0129,Smart Cricket 129,Sports,Cricket,9933.11,8499.82
+P0130,Plus Bags 130,Fashion,Bags,8638.68,7466.86
+P0131,Lite Mobiles 131,Electronics,Mobiles,33940.43,22123.75
+P0132,Ultra Wellness 132,Beauty & Health,Wellness,3526.18,2125.29
+P0133,Plus Bags 133,Fashion,Bags,33621.17,26631.12
+P0134,Advanced Men Clothing 134,Fashion,Men Clothing,21729.88,15733.95
+P0135,Advanced Cycling 135,Sports,Cycling,33764.78,26655.47
+P0136,Ultra Skincare 136,Beauty & Health,Skincare,24512.32,20838.37
+P0137,Classic Storage 137,Home & Living,Storage,40608.92,27835.34
+P0138,Classic Furniture 138,Home & Living,Furniture,18468.42,12814.87
+P0139,Ultra Wellness 139,Beauty & Health,Wellness,5112.49,3657.19
+P0140,Everyday Accessories 140,Fashion,Accessories,16567.26,14254.1
+P0141,Ultra Laptops 141,Electronics,Laptops,19419.12,16466.58
+P0142,Everyday Kitchen 142,Home & Living,Kitchen,5480.27,4760.99
+P0143,Essential Women Clothing 143,Fashion,Women Clothing,7096.78,4251.0
+P0144,Essential Kitchen 144,Home & Living,Kitchen,37943.9,29312.57
+P0145,Pro Kitchen 145,Home & Living,Kitchen,4459.46,2811.01
+P0146,Advanced Mobiles 146,Electronics,Mobiles,35874.09,23898.21
+P0147,Advanced Bedding 147,Home & Living,Bedding,3039.18,1954.44
+P0148,Premium Cameras 148,Electronics,Cameras,12734.23,9575.02
+P0149,Essential Headphones 149,Electronics,Headphones,27986.4,16899.66
+P0150,Advanced Makeup 150,Beauty & Health,Makeup,43190.76,27104.38
+P0151,Smart Mobiles 151,Electronics,Mobiles,16303.21,12233.8
+P0152,Everyday Outdoor 152,Sports,Outdoor,35866.16,26315.31
+P0153,Premium Fitness 153,Sports,Fitness,22269.8,13532.77
+P0154,Essential Bags 154,Fashion,Bags,17695.69,11018.04
+P0155,Advanced Storage 155,Home & Living,Storage,24361.67,16233.67
+P0156,Everyday Bedding 156,Home & Living,Bedding,25263.89,20768.26
+P0157,Pro Makeup 157,Beauty & Health,Makeup,1013.09,673.59
+P0158,Essential Furniture 158,Home & Living,Furniture,42043.83,29950.08
+P0159,Everyday Fitness 159,Sports,Fitness,16642.43,10928.95
+P0160,Lite Cameras 160,Electronics,Cameras,15487.67,13399.41
+P0161,Smart Bedding 161,Home & Living,Bedding,3420.02,2940.8
+P0162,Premium Cycling 162,Sports,Cycling,23068.81,16254.91
+P0163,Lite Sportswear 163,Sports,Sportswear,37880.8,27650.19
+P0164,Advanced Men Clothing 164,Fashion,Men Clothing,4692.46,3868.7
+P0165,Premium Fitness 165,Sports,Fitness,14673.46,11671.35
+P0166,Lite Headphones 166,Electronics,Headphones,7255.38,5228.78
+P0167,Plus Accessories 167,Fashion,Accessories,34911.55,23076.76
+P0168,Everyday Decor 168,Home & Living,Decor,5781.74,4216.01
+P0169,Advanced Cricket 169,Sports,Cricket,3583.65,2222.77
+P0170,Advanced Wellness 170,Beauty & Health,Wellness,41421.27,24499.93
+P0171,Pro Smart Watches 171,Electronics,Smart Watches,42256.09,29062.6
+P0172,Pro Kitchen 172,Home & Living,Kitchen,11130.56,6593.41
+P0173,Everyday Men Clothing 173,Fashion,Men Clothing,12683.13,7541.3
+P0174,Lite Women Clothing 174,Fashion,Women Clothing,14981.73,8966.75
+P0175,Advanced Women Clothing 175,Fashion,Women Clothing,21966.06,18114.8
+P0176,Essential Accessories 176,Fashion,Accessories,27086.48,20125.87
+P0177,Advanced Mobiles 177,Electronics,Mobiles,28648.35,18784.81
+P0178,Pro Women Clothing 178,Fashion,Women Clothing,13600.13,11652.81
+P0179,Pro Cricket 179,Sports,Cricket,19717.45,14644.18
+P0180,Ultra Bags 180,Fashion,Bags,32246.87,20209.57
+P0181,Advanced Laptops 181,Electronics,Laptops,48640.84,28713.46
+P0182,Plus Mobiles 182,Electronics,Mobiles,44184.76,28189.57
+P0183,Advanced Smart Watches 183,Electronics,Smart Watches,39800.71,25204.8
+P0184,Ultra Bags 184,Fashion,Bags,29501.45,21562.91
+P0185,Classic Personal Care 185,Beauty & Health,Personal Care,9335.15,5753.93
+P0186,Premium Men Clothing 186,Fashion,Men Clothing,39785.91,25031.11
+P0187,Pro Skincare 187,Beauty & Health,Skincare,21088.4,18216.5
+P0188,Classic Laptops 188,Electronics,Laptops,23537.19,15901.64
+P0189,Advanced Mobiles 189,Electronics,Mobiles,35006.74,28798.7
+P0190,Ultra Personal Care 190,Beauty & Health,Personal Care,21598.7,15221.23
+P0191,Classic Makeup 191,Beauty & Health,Makeup,23786.89,18386.08
+P0192,Everyday Laptops 192,Electronics,Laptops,12900.38,8277.65
+P0193,Classic Storage 193,Home & Living,Storage,34712.44,25888.4
+P0194,Classic Kitchen 194,Home & Living,Kitchen,9964.53,6139.01
+P0195,Pro Cycling 195,Sports,Cycling,14833.46,9654.62
+P0196,Advanced Headphones 196,Electronics,Headphones,679.04,552.89
+P0197,Pro Smart Watches 197,Electronics,Smart Watches,39088.77,26024.39
+P0198,Premium Laptops 198,Electronics,Laptops,13219.06,8866.45
+P0199,Smart Bedding 199,Home & Living,Bedding,34291.98,22895.73
+P0200,Everyday Fitness 200,Sports,Fitness,12182.59,10021.52
+P0201,Premium Cycling 201,Sports,Cycling,15366.71,10657.22
+P0202,Everyday Bedding 202,Home & Living,Bedding,26362.6,21598.47
+P0203,Advanced Bedding 203,Home & Living,Bedding,1408.63,1204.27
+P0204,Pro Cricket 204,Sports,Cricket,18243.67,13815.37
+P0205,Essential Kitchen 205,Home & Living,Kitchen,30771.44,22870.51
+P0206,Everyday Women Clothing 206,Fashion,Women Clothing,17476.75,11712.37
+P0207,Advanced Kitchen 207,Home & Living,Kitchen,499.94,414.54
+P0208,Everyday Haircare 208,Beauty & Health,Haircare,3597.8,2156.43
+P0209,Plus Furniture 209,Home & Living,Furniture,34660.07,23453.7
+P0210,Classic Accessories 210,Fashion,Accessories,19430.36,13766.87
+P0211,Plus Kitchen 211,Home & Living,Kitchen,1289.58,844.76
+P0212,Advanced Cameras 212,Electronics,Cameras,31551.64,21335.8
+P0213,Smart Women Clothing 213,Fashion,Women Clothing,23905.97,19753.38
+P0214,Smart Decor 214,Home & Living,Decor,22229.83,18027.05
+P0215,Plus Mobiles 215,Electronics,Mobiles,27390.58,21379.69
+P0216,Essential Footwear 216,Fashion,Footwear,24568.77,16618.25
+P0217,Smart Headphones 217,Electronics,Headphones,7964.45,4726.56
+P0218,Smart Cameras 218,Electronics,Cameras,10147.99,6409.11
+P0219,Essential Footwear 219,Fashion,Footwear,20223.13,12742.16
+P0220,Plus Sportswear 220,Sports,Sportswear,49219.66,29595.11
+P0221,Everyday Mobiles 221,Electronics,Mobiles,31978.73,19816.53
+P0222,Ultra Decor 222,Home & Living,Decor,14255.49,8902.46
+P0223,Ultra Headphones 223,Electronics,Headphones,9897.89,6300.11
+P0224,Smart Wellness 224,Beauty & Health,Wellness,38443.18,23868.52
+P0225,Plus Laptops 225,Electronics,Laptops,7345.25,6023.05
+P0226,Classic Haircare 226,Beauty & Health,Haircare,22380.03,19426.69
+P0227,Ultra Mobiles 227,Electronics,Mobiles,18457.63,11297.1
+P0228,Ultra Headphones 228,Electronics,Headphones,31470.56,21175.6
+P0229,Classic Kitchen 229,Home & Living,Kitchen,33590.31,23085.14
+P0230,Smart Haircare 230,Beauty & Health,Haircare,5569.65,4072.76
+P0231,Smart Men Clothing 231,Fashion,Men Clothing,3239.02,2711.78
+P0232,Premium Mobiles 232,Electronics,Mobiles,40425.08,24290.4
+P0233,Smart Bags 233,Fashion,Bags,16085.93,10052.55
+P0234,Classic Cycling 234,Sports,Cycling,1595.68,1209.09
+P0235,Premium Men Clothing 235,Fashion,Men Clothing,25025.47,20538.33
+P0236,Essential Laptops 236,Electronics,Laptops,29018.49,23192.24
+P0237,Classic Personal Care 237,Beauty & Health,Personal Care,11505.32,9451.21
+P0238,Premium Mobiles 238,Electronics,Mobiles,32781.43,20257.29
+P0239,Classic Cameras 239,Electronics,Cameras,14454.44,10582.35
+P0240,Premium Personal Care 240,Beauty & Health,Personal Care,26747.33,18539.17
+P0241,Pro Wellness 241,Beauty & Health,Wellness,4061.38,3324.05
+P0242,Everyday Decor 242,Home & Living,Decor,21923.42,17890.82
+P0243,Everyday Mobiles 243,Electronics,Mobiles,4498.03,2707.53
+P0244,Smart Wellness 244,Beauty & Health,Wellness,22075.48,18055.98
+P0245,Everyday Fitness 245,Sports,Fitness,14841.84,9737.33
+P0246,Classic Cameras 246,Electronics,Cameras,9724.36,7254.83
+P0247,Lite Smart Watches 247,Electronics,Smart Watches,23012.48,14196.26
+P0248,Advanced Laptops 248,Electronics,Laptops,30002.09,19695.13
+P0249,Everyday Wellness 249,Beauty & Health,Wellness,31466.81,19130.14
+P0250,Premium Cameras 250,Electronics,Cameras,48204.35,29485.96
+P0251,Essential Storage 251,Home & Living,Storage,37269.65,26493.05
+P0252,Plus Laptops 252,Electronics,Laptops,12482.78,10735.77
+P0253,Essential Outdoor 253,Sports,Outdoor,34943.32,23638.81
+P0254,Everyday Women Clothing 254,Fashion,Women Clothing,30316.01,20504.06
+P0255,Advanced Mobiles 255,Electronics,Mobiles,12501.69,9137.31
+P0256,Lite Furniture 256,Home & Living,Furniture,11239.97,9581.98
+P0257,Lite Fitness 257,Sports,Fitness,9939.23,6188.91
+P0258,Premium Cycling 258,Sports,Cycling,28370.94,22716.07
+P0259,Premium Skincare 259,Beauty & Health,Skincare,33311.68,20829.87
+P0260,Essential Smart Watches 260,Electronics,Smart Watches,4567.85,3827.28
+P0261,Lite Cycling 261,Sports,Cycling,36582.83,22311.87
+P0262,Everyday Laptops 262,Electronics,Laptops,42974.65,26187.66
+P0263,Pro Bags 263,Fashion,Bags,24950.67,21089.36
+P0264,Classic Skincare 264,Beauty & Health,Skincare,19831.58,15790.7
+P0265,Lite Wellness 265,Beauty & Health,Wellness,27373.17,16362.76
+P0266,Classic Accessories 266,Fashion,Accessories,29513.61,25206.73
+P0267,Ultra Accessories 267,Fashion,Accessories,9692.03,5910.68
+P0268,Classic Bags 268,Fashion,Bags,14792.8,11326.27
+P0269,Smart Bedding 269,Home & Living,Bedding,31602.03,25654.1
+P0270,Ultra Footwear 270,Fashion,Footwear,15478.24,10819.94
+P0271,Classic Kitchen 271,Home & Living,Kitchen,26962.52,16177.67
+P0272,Everyday Cameras 272,Electronics,Cameras,15932.91,9810.12
+P0273,Premium Smart Watches 273,Electronics,Smart Watches,18741.52,12325.42
+P0274,Advanced Mobiles 274,Electronics,Mobiles,17049.04,10294.45
+P0275,Essential Outdoor 275,Sports,Outdoor,32849.74,22189.07
+P0276,Smart Wellness 276,Beauty & Health,Wellness,35890.69,24568.12
+P0277,Plus Personal Care 277,Beauty & Health,Personal Care,25472.49,19039.47
+P0278,Pro Women Clothing 278,Fashion,Women Clothing,28099.14,22295.56
+P0279,Advanced Sportswear 279,Sports,Sportswear,42793.95,25893.52
+P0280,Advanced Women Clothing 280,Fashion,Women Clothing,16267.27,13489.92
+P0281,Premium Mobiles 281,Electronics,Mobiles,7930.73,5883.8
+P0282,Classic Cricket 282,Sports,Cricket,43748.54,27415.86
+P0283,Essential Fitness 283,Sports,Fitness,35505.28,29200.88
+P0284,Pro Footwear 284,Fashion,Footwear,12201.47,8741.85
+P0285,Lite Bags 285,Fashion,Bags,13477.36,8161.05
+P0286,Ultra Mobiles 286,Electronics,Mobiles,15726.26,9370.86
+P0287,Premium Storage 287,Home & Living,Storage,36369.53,27729.14
+P0288,Premium Cricket 288,Sports,Cricket,8854.85,6795.12
+P0289,Essential Decor 289,Home & Living,Decor,22514.34,19013.68
+P0290,Plus Men Clothing 290,Fashion,Men Clothing,15124.81,10954.05
+P0291,Everyday Bags 291,Fashion,Bags,24095.44,19039.24
+P0292,Advanced Fitness 292,Sports,Fitness,37699.44,23662.42
+P0293,Lite Kitchen 293,Home & Living,Kitchen,15423.88,11168.71
+P0294,Advanced Personal Care 294,Beauty & Health,Personal Care,22039.57,13634.92
+P0295,Pro Storage 295,Home & Living,Storage,38797.97,27193.25
+P0296,Advanced Personal Care 296,Beauty & Health,Personal Care,5164.26,3169.97
+P0297,Advanced Headphones 297,Electronics,Headphones,35371.46,22740.39
+P0298,Ultra Fitness 298,Sports,Fitness,15288.92,10356.55
+P0299,Pro Decor 299,Home & Living,Decor,11145.42,7852.59
+P0300,Ultra Cricket 300,Sports,Cricket,38032.77,26948.49
+P0301,Essential Cricket 301,Sports,Cricket,15125.88,10831.12
+P0302,Lite Fitness 302,Sports,Fitness,20080.23,12484.15
+P0303,Classic Sportswear 303,Sports,Sportswear,24549.98,15672.9
+P0304,Advanced Cameras 304,Electronics,Cameras,9283.54,6568.07
+P0305,Essential Footwear 305,Fashion,Footwear,10161.93,7224.99
+P0306,Premium Bags 306,Fashion,Bags,32285.8,25352.3
+P0307,Premium Mobiles 307,Electronics,Mobiles,19767.59,15230.09
+P0308,Essential Bedding 308,Home & Living,Bedding,2097.23,1664.11
+P0309,Advanced Men Clothing 309,Fashion,Men Clothing,5548.61,3558.84
+P0310,Premium Fitness 310,Sports,Fitness,16032.14,10190.38
+P0311,Classic Sportswear 311,Sports,Sportswear,30059.65,19363.84
+P0312,Ultra Bags 312,Fashion,Bags,27661.55,16609.08
+P0313,Everyday Furniture 313,Home & Living,Furniture,24894.97,20178.07
+P0314,Premium Decor 314,Home & Living,Decor,27325.48,18922.61
+P0315,Essential Haircare 315,Beauty & Health,Haircare,19883.51,13146.59
+P0316,Pro Women Clothing 316,Fashion,Women Clothing,3154.9,2617.33
+P0317,Lite Makeup 317,Beauty & Health,Makeup,18098.08,14829.87
+P0318,Premium Mobiles 318,Electronics,Mobiles,36780.39,26399.76
+P0319,Pro Cricket 319,Sports,Cricket,27014.3,17765.42
+P0320,Ultra Cameras 320,Electronics,Cameras,27951.37,24051.56
+P0321,Everyday Headphones 321,Electronics,Headphones,49126.17,29150.07
+P0322,Essential Headphones 322,Electronics,Headphones,38949.85,23861.57
+P0323,Lite Headphones 323,Electronics,Headphones,36667.47,24704.75
+P0324,Classic Laptops 324,Electronics,Laptops,17180.38,10594.95
+P0325,Lite Haircare 325,Beauty & Health,Haircare,21255.91,12849.36
+P0326,Premium Cycling 326,Sports,Cycling,11774.82,7405.85
+P0327,Classic Decor 327,Home & Living,Decor,31129.26,23509.65
+P0328,Lite Storage 328,Home & Living,Storage,8755.01,7416.66
+P0329,Essential Furniture 329,Home & Living,Furniture,13490.11,9583.59
+P0330,Advanced Decor 330,Home & Living,Decor,27152.73,20884.45
+P0331,Pro Accessories 331,Fashion,Accessories,5672.31,4634.8
+P0332,Advanced Skincare 332,Beauty & Health,Skincare,12981.17,8024.37
+P0333,Essential Furniture 333,Home & Living,Furniture,34902.07,26449.19
+P0334,Pro Bedding 334,Home & Living,Bedding,35652.11,27116.57
+P0335,Smart Furniture 335,Home & Living,Furniture,15155.37,11282.45
+P0336,Classic Wellness 336,Beauty & Health,Wellness,11579.55,10024.04
+P0337,Classic Accessories 337,Fashion,Accessories,22586.66,16474.84
+P0338,Everyday Cycling 338,Sports,Cycling,3925.25,2460.64
+P0339,Advanced Mobiles 339,Electronics,Mobiles,14612.55,12342.49
+P0340,Plus Cricket 340,Sports,Cricket,35482.94,25687.95
+P0341,Pro Footwear 341,Fashion,Footwear,17858.08,11256.98
+P0342,Plus Smart Watches 342,Electronics,Smart Watches,11921.94,8187.05
+P0343,Pro Mobiles 343,Electronics,Mobiles,25142.54,16137.76
+P0344,Classic Fitness 344,Sports,Fitness,19646.7,14642.53
+P0345,Pro Bedding 345,Home & Living,Bedding,4731.55,3179.98
+P0346,Premium Cameras 346,Electronics,Cameras,43259.28,26561.36
+P0347,Premium Storage 347,Home & Living,Storage,14061.61,10490.24
+P0348,Advanced Makeup 348,Beauty & Health,Makeup,14954.04,10820.92
+P0349,Essential Cameras 349,Electronics,Cameras,16410.37,10669.84
+P0350,Smart Kitchen 350,Home & Living,Kitchen,42650.72,26598.72
+P0351,Premium Kitchen 351,Home & Living,Kitchen,6324.64,5267.47
+P0352,Classic Women Clothing 352,Fashion,Women Clothing,34709.18,24974.66
+P0353,Lite Women Clothing 353,Fashion,Women Clothing,23798.43,17459.81
+P0354,Plus Cycling 354,Sports,Cycling,23824.2,17516.5
+P0355,Essential Kitchen 355,Home & Living,Kitchen,24408.26,18970.67
+P0356,Everyday Cycling 356,Sports,Cycling,28678.34,24832.88
+P0357,Lite Bedding 357,Home & Living,Bedding,25153.29,20739.84
+P0358,Premium Furniture 358,Home & Living,Furniture,14401.87,11249.82
+P0359,Premium Men Clothing 359,Fashion,Men Clothing,29024.59,18628.83
+P0360,Everyday Bags 360,Fashion,Bags,25566.6,15072.59
+P0361,Lite Skincare 361,Beauty & Health,Skincare,37464.32,24782.59
+P0362,Advanced Smart Watches 362,Electronics,Smart Watches,29891.79,22902.27
+P0363,Everyday Bags 363,Fashion,Bags,14658.1,8705.14
+P0364,Smart Laptops 364,Electronics,Laptops,2315.61,1592.66
+P0365,Everyday Wellness 365,Beauty & Health,Wellness,10752.71,6485.8
+P0366,Smart Men Clothing 366,Fashion,Men Clothing,8310.42,5974.35
+P0367,Ultra Decor 367,Home & Living,Decor,4027.35,2475.14
+P0368,Classic Accessories 368,Fashion,Accessories,30821.28,20720.77
+P0369,Plus Fitness 369,Sports,Fitness,9676.18,5742.47
+P0370,Ultra Footwear 370,Fashion,Footwear,2077.87,1556.76
+P0371,Lite Cricket 371,Sports,Cricket,47340.25,29529.3
+P0372,Everyday Storage 372,Home & Living,Storage,4002.44,2523.13
+P0373,Essential Personal Care 373,Beauty & Health,Personal Care,15116.75,11662.21
+P0374,Lite Skincare 374,Beauty & Health,Skincare,15202.28,12877.47
+P0375,Ultra Outdoor 375,Sports,Outdoor,33789.53,20241.23
+P0376,Ultra Bedding 376,Home & Living,Bedding,30292.27,21390.29
+P0377,Classic Accessories 377,Fashion,Accessories,28068.06,21869.48
+P0378,Plus Outdoor 378,Sports,Outdoor,22434.55,19116.99
+P0379,Pro Accessories 379,Fashion,Accessories,26812.66,22713.34
+P0380,Advanced Footwear 380,Fashion,Footwear,31795.27,20154.41
+P0381,Ultra Skincare 381,Beauty & Health,Skincare,16328.5,11921.52
+P0382,Smart Smart Watches 382,Electronics,Smart Watches,27714.03,16875.2
+P0383,Pro Storage 383,Home & Living,Storage,34932.39,25008.45
+P0384,Premium Footwear 384,Fashion,Footwear,37082.66,24907.96
+P0385,Essential Furniture 385,Home & Living,Furniture,24532.36,18269.7
+P0386,Smart Bedding 386,Home & Living,Bedding,13149.04,9096.39
+P0387,Advanced Mobiles 387,Electronics,Mobiles,2202.61,1625.78
+P0388,Ultra Men Clothing 388,Fashion,Men Clothing,7847.98,4899.62
+P0389,Classic Accessories 389,Fashion,Accessories,5342.68,3220.57
+P0390,Pro Footwear 390,Fashion,Footwear,8075.57,5653.24
+P0391,Smart Accessories 391,Fashion,Accessories,37254.48,22660.24
+P0392,Classic Footwear 392,Fashion,Footwear,18891.36,11389.54
+P0393,Smart Bedding 393,Home & Living,Bedding,26159.39,19084.81
+P0394,Lite Smart Watches 394,Electronics,Smart Watches,5113.56,3712.41
+P0395,Everyday Storage 395,Home & Living,Storage,631.26,425.28
+P0396,Advanced Makeup 396,Beauty & Health,Makeup,6744.08,5763.11
+P0397,Ultra Cricket 397,Sports,Cricket,21392.36,13812.41
+P0398,Lite Laptops 398,Electronics,Laptops,32207.48,19731.06
+P0399,Advanced Bedding 399,Home & Living,Bedding,12270.99,10031.94
+P0400,Advanced Women Clothing 400,Fashion,Women Clothing,29466.27,21033.32
+P0401,Everyday Laptops 401,Electronics,Laptops,25825.22,17909.23
+P0402,Classic Makeup 402,Beauty & Health,Makeup,20422.99,15476.38
+P0403,Pro Laptops 403,Electronics,Laptops,29282.24,24147.55
+P0404,Everyday Bags 404,Fashion,Bags,19597.76,12208.76
+P0405,Ultra Skincare 405,Beauty & Health,Skincare,10095.14,8690.19
+P0406,Ultra Women Clothing 406,Fashion,Women Clothing,5310.62,3312.99
+P0407,Essential Fitness 407,Sports,Fitness,20036.95,12613.99
+P0408,Lite Women Clothing 408,Fashion,Women Clothing,17111.83,11188.29
+P0409,Ultra Headphones 409,Electronics,Headphones,10966.54,9092.04
+P0410,Smart Women Clothing 410,Fashion,Women Clothing,9519.51,5796.36
+P0411,Ultra Cameras 411,Electronics,Cameras,3229.75,2090.55
+P0412,Plus Sportswear 412,Sports,Sportswear,43663.02,29054.09
+P0413,Smart Decor 413,Home & Living,Decor,46417.91,28585.06
+P0414,Premium Laptops 414,Electronics,Laptops,13569.83,10963.87
+P0415,Lite Bags 415,Fashion,Bags,36052.45,25898.51
+P0416,Everyday Accessories 416,Fashion,Accessories,44603.74,28143.67
+P0417,Essential Outdoor 417,Sports,Outdoor,18734.87,15258.53
+P0418,Ultra Personal Care 418,Beauty & Health,Personal Care,36121.34,23248.51
+P0419,Classic Cameras 419,Electronics,Cameras,35359.1,25734.4
+P0420,Ultra Headphones 420,Electronics,Headphones,13771.84,9160.02
+P0421,Ultra Storage 421,Home & Living,Storage,38821.59,29804.98
+P0422,Essential Cycling 422,Sports,Cycling,40906.82,25705.36
+P0423,Everyday Smart Watches 423,Electronics,Smart Watches,5232.11,3441.24
+P0424,Premium Laptops 424,Electronics,Laptops,45048.63,27229.89
+P0425,Plus Kitchen 425,Home & Living,Kitchen,41850.56,24906.28
+P0426,Smart Cameras 426,Electronics,Cameras,32744.22,27181.11
+P0427,Everyday Furniture 427,Home & Living,Furniture,19009.6,15792.6
+P0428,Ultra Skincare 428,Beauty & Health,Skincare,39446.89,27886.61
+P0429,Smart Cycling 429,Sports,Cycling,10626.1,6355.56
+P0430,Classic Mobiles 430,Electronics,Mobiles,6928.8,4498.19
+P0431,Lite Skincare 431,Beauty & Health,Skincare,6183.8,4660.14
+P0432,Lite Accessories 432,Fashion,Accessories,23523.49,17612.36
+P0433,Pro Footwear 433,Fashion,Footwear,31150.25,21451.78
+P0434,Plus Bedding 434,Home & Living,Bedding,1649.84,1079.8
+P0435,Smart Wellness 435,Beauty & Health,Wellness,31977.72,19586.38
+P0436,Ultra Decor 436,Home & Living,Decor,28043.73,21111.16
+P0437,Plus Mobiles 437,Electronics,Mobiles,10976.57,7184.34
+P0438,Premium Decor 438,Home & Living,Decor,47506.26,28639.78
+P0439,Plus Smart Watches 439,Electronics,Smart Watches,10934.41,6507.98
+P0440,Essential Furniture 440,Home & Living,Furniture,44606.08,29343.2
+P0441,Classic Fitness 441,Sports,Fitness,9905.88,7112.93
+P0442,Premium Cricket 442,Sports,Cricket,21504.17,13409.1
+P0443,Ultra Mobiles 443,Electronics,Mobiles,2748.11,2377.87
+P0444,Advanced Bags 444,Fashion,Bags,2063.35,1527.68
+P0445,Pro Makeup 445,Beauty & Health,Makeup,20694.59,14520.56
+P0446,Advanced Outdoor 446,Sports,Outdoor,3351.76,2189.67
+P0447,Pro Furniture 447,Home & Living,Furniture,24391.87,14928.68
+P0448,Everyday Skincare 448,Beauty & Health,Skincare,8219.43,5515.43
+P0449,Plus Footwear 449,Fashion,Footwear,48049.14,28331.75
+P0450,Essential Cycling 450,Sports,Cycling,23976.88,18086.36
+P0451,Plus Fitness 451,Sports,Fitness,7614.68,6288.41
+P0452,Pro Haircare 452,Beauty & Health,Haircare,34471.41,23056.79
+P0453,Advanced Accessories 453,Fashion,Accessories,31601.39,25392.78
+P0454,Ultra Headphones 454,Electronics,Headphones,9638.4,7232.22
+P0455,Smart Outdoor 455,Sports,Outdoor,18729.83,14273.64
+P0456,Pro Bags 456,Fashion,Bags,12593.74,8021.9
+P0457,Everyday Haircare 457,Beauty & Health,Haircare,33090.67,27009.31
+P0458,Advanced Furniture 458,Home & Living,Furniture,31705.34,18741.13
+P0459,Lite Decor 459,Home & Living,Decor,3792.08,3231.58
+P0460,Advanced Footwear 460,Fashion,Footwear,2319.94,1800.13
+P0461,Ultra Cycling 461,Sports,Cycling,14284.48,11975.35
+P0462,Lite Haircare 462,Beauty & Health,Haircare,27101.73,22323.84
+P0463,Plus Bedding 463,Home & Living,Bedding,42605.79,27150.1
+P0464,Plus Makeup 464,Beauty & Health,Makeup,1628.46,1038.78
+P0465,Smart Kitchen 465,Home & Living,Kitchen,28062.92,22776.21
+P0466,Essential Haircare 466,Beauty & Health,Haircare,824.74,523.27
+P0467,Everyday Bags 467,Fashion,Bags,47941.04,28951.35
+P0468,Essential Men Clothing 468,Fashion,Men Clothing,24896.18,15538.65
+P0469,Plus Men Clothing 469,Fashion,Men Clothing,6038.84,3638.57
+P0470,Classic Sportswear 470,Sports,Sportswear,23921.98,17614.31
+P0471,Premium Headphones 471,Electronics,Headphones,32382.84,24738.12
+P0472,Lite Bedding 472,Home & Living,Bedding,1292.32,890.6
+P0473,Advanced Outdoor 473,Sports,Outdoor,8588.34,6813.54
+P0474,Premium Wellness 474,Beauty & Health,Wellness,23146.85,18101.06
+P0475,Pro Personal Care 475,Beauty & Health,Personal Care,20034.46,12624.68
+P0476,Ultra Mobiles 476,Electronics,Mobiles,43557.36,28889.81
+P0477,Lite Smart Watches 477,Electronics,Smart Watches,5586.97,4129.73
+P0478,Essential Laptops 478,Electronics,Laptops,10565.28,8167.28
+P0479,Classic Accessories 479,Fashion,Accessories,33978.31,23601.36
+P0480,Smart Furniture 480,Home & Living,Furniture,36808.82,27430.64
+P0481,Classic Men Clothing 481,Fashion,Men Clothing,42761.79,28817.57
+P0482,Smart Smart Watches 482,Electronics,Smart Watches,18259.93,14569.26
+P0483,Pro Kitchen 483,Home & Living,Kitchen,16908.44,10683.55
+P0484,Smart Storage 484,Home & Living,Storage,18640.14,11345.27
+P0485,Essential Makeup 485,Beauty & Health,Makeup,30431.66,25352.75
+P0486,Premium Headphones 486,Electronics,Headphones,6433.14,4013.31
+P0487,Plus Cameras 487,Electronics,Cameras,12283.12,7639.35
+P0488,Essential Haircare 488,Beauty & Health,Haircare,19136.12,11534.21
+P0489,Ultra Sportswear 489,Sports,Sportswear,24695.4,18493.99
+P0490,Lite Personal Care 490,Beauty & Health,Personal Care,12669.44,9691.59
+P0491,Lite Accessories 491,Fashion,Accessories,27499.04,16347.43
+P0492,Classic Decor 492,Home & Living,Decor,21887.99,17715.96
+P0493,Plus Accessories 493,Fashion,Accessories,23747.53,17423.2
+P0494,Advanced Women Clothing 494,Fashion,Women Clothing,9377.26,5657.62
+P0495,Ultra Storage 495,Home & Living,Storage,4177.54,3396.67
+P0496,Lite Makeup 496,Beauty & Health,Makeup,19514.02,15710.01
+P0497,Lite Skincare 497,Beauty & Health,Skincare,25266.96,20204.28
+P0498,Lite Men Clothing 498,Fashion,Men Clothing,7450.97,5989.94
+P0499,Everyday Bedding 499,Home & Living,Bedding,9501.23,6380.58
+P0500,Advanced Cricket 500,Sports,Cricket,806.32,494.0
